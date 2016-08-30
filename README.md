@@ -12,3 +12,9 @@ engineering team and added to the product base line as an output analyizer, a to
 Purpose:
 This tool reads graphics data (binary) an prints out an analysis in full or summary view.  It handles all VDS formats including VRF, VDS Raster (1D, 2D 2D Optimized) and blocked raster.
 
+History:
+Stated life as a Pascal program, fully function on a Xerox 820 computer using an Turbo Pascal Compiler we tool of the Apple IIE.  We used Kermet or X-modem to upload the files for analysis on the ZCPR (CP/M Clone) system running a BBS system for remote access.
+
+Convert code to "C" - to force myself to learn it as they did not teach it to me in college.
+Ported to Versate 820 controllers (Prism) to capture and anaylze data running under CP/M. 
+Productized by Versatec engineering and added to Versaplot and VGS graphis pacaages, so ported to Vax, Sun, HP and Apollo OS and also PC-DOS. 
