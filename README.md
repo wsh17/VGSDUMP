@@ -13,7 +13,7 @@ Purpose:
 This tool reads graphics data (binary) an prints out an analysis in full or summary view.  It handles all VDS formats including VRF, VDS Raster (1D, 2D 2D Optimized) and blocked raster.
 
 History:
-Stated life as a Pascal program, fully function on a Xerox 820 computer using an Turbo Pascal Compiler we tool of the Apple IIE.  We used Kermet or X-modem to upload the files for analysis on the ZCPR (CP/M Clone) system running a BBS system for remote access.
+Stated life as a Pascal program, fully function on a Xerox 820 computer running CP/M or the openversion ZCPR using a Turbo Pascal Compiler we took of the Apple IIE and changed the binary headers to run on a Xerox 820. The 820 and Apple IIE had the same CPU, just different OS. We used Kermet or X-modem to upload the files for analysis on the ZCPR (CP/M Clone) system running a BBS system for remote access.  This BBS ran in my Versatec office in Pleasanton, CA.  
 
 Convert code to "C" - to force myself to learn it as they did not teach it to me in college.
 Ported to Versate 820 controllers (Prism) to capture and anaylze data running under CP/M. 
