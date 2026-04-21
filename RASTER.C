@@ -1,5 +1,6 @@
 /*
  * module         raster.c V1.2
+ * Created by Bill Harper @ Versatec 1986
  * last modified  15:19:51 8/11/89
  * current date   15:20:41 8/11/89
  *
