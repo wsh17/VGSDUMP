@@ -1,10 +1,10 @@
 # VGSDUMP
 Versatec Graphics Dump Analyzer is an older utility written to analyze graphic output files
 # Authors
-Bill Harper - creater inventor of the Utility. Helped by Mark Tamura - versatec s/w engineer, Dale Trip - versatec s/w engineer as it got built into Versaplot as a utility and released with the product. 
-# This is a parser that supports VDS data written in "C"
+Bill Harper - creater inventor and creator of the Utility started this tool in Pascal, turbo Pascal. I then converted to "C" to learn this new technoloty, well new at the time to me.  I then was asked if we could include this with our product (Versaplot) as it was a great debuging tool.  I was then helped by Mark Tamura - versatec s/w engineer, Dale Trip - versatec s/w engineer as to built in toO Versaplot as a utility and released with the product. Versaplot and Versaplot had an analyzer, but only for the imtermediate data file, and not for the final output file that would be sent to and rendered by the Versatec controller. 
+# This is a parser that supports VDS (Versatec Data Standards) and is written in "C" but converted from a Pascal base. 
 This data format is old, but the opensource of this as it can be modified to perform other tasks
-as the parser itself is quite plugable for 20 year code.
+as the parser itself is quite plugable for 30 year code.
 
 This code was written by Bill Harper as a trouble shooting tool for the SE's and then adopted by the Xerox
 engineering team and added to the Versaplot product base as an output analyizer, a tool much needed.  This was distributed as part of the Versatec Versaplot products, Versaplot9, Versaplot Randon, and Versaplot VRF. 
