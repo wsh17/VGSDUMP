@@ -1,6 +1,7 @@
 
 /*
  * module         dump.h V1.2
+ * Created by Bill Harper @ Versatec 1986
  * last modified  15:19:48 8/11/89
  * current date   15:20:40 8/11/89
  *
